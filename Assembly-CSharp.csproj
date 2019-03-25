@@ -100,13 +100,15 @@
     <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Utility\WaypointProgressTracker.cs" />
     <Compile Include="Assets\MainMenu.cs" />
-    <Compile Include="Assets\OldChest\DemoScene\MouseOrbit.cs" />
     <Compile Include="Assets\RPGPackFree\Scripts\BowString.cs" />
     <Compile Include="Assets\RPGPackFree\Scripts\OpenChest.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\EnemyHP.cs" />
     <Compile Include="Assets\Scripts\healthPoison.cs" />
     <Compile Include="Assets\Scripts\insideHouse.cs" />
+    <Compile Include="Assets\Scripts\Key.cs" />
+    <Compile Include="Assets\Scripts\meleAttack.cs" />
+    <Compile Include="Assets\Scripts\openDoor.cs" />
     <Compile Include="Assets\Scripts\PlayerHP.cs" />
     <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\AsteroidController.cs" />
     <Compile Include="Assets\Simple Health Bar\_Asteroids Example\Scripts\GameManager.cs" />
