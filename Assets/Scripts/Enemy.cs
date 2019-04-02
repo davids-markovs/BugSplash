@@ -13,6 +13,7 @@ public class Enemy : MonoBehaviour
     public float a_WalkSpeed = 2;
     public AnimationClip a_Attack;
     public float a_AttackSpeed = 2;
+    public AnimationClip a_Death;
     private bool walk;
     private bool Attacka;
     public int Damage;
@@ -36,7 +37,7 @@ public class Enemy : MonoBehaviour
       if (anim[a_Attack.name].enabled == false)
         {
             Attacka = true;
-        }  
+        }
       if (Vector3.Distance(transform.position, target.transform.position) <= seeDistance)
         {
                if(anim[a_Attack.name].time > 0.9 * anim[a_Attack.name].length & target.tag == "Player")
