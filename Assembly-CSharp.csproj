@@ -101,7 +101,6 @@
     <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Utility\WaypointProgressTracker.cs" />
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\RPGPackFree\Scripts\BowString.cs" />
-    <Compile Include="Assets\RPGPackFree\Scripts\OpenChest.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\EnemyHP.cs" />
     <Compile Include="Assets\Scripts\EnemySpawn.cs" />
@@ -109,6 +108,7 @@
     <Compile Include="Assets\Scripts\insideHouse.cs" />
     <Compile Include="Assets\Scripts\Key.cs" />
     <Compile Include="Assets\Scripts\meleAttack.cs" />
+    <Compile Include="Assets\Scripts\OpenChest.cs" />
     <Compile Include="Assets\Scripts\openDoor.cs" />
     <Compile Include="Assets\Scripts\PlayerAttack.cs" />
     <Compile Include="Assets\Scripts\PlayerHP.cs" />
