@@ -67,7 +67,7 @@ public class EnemyHP : MonoBehaviour
         {
             Vector3 position = transform.position;
             // Clone the objects that are "in" the box.
-                if (item != null && number<255)
+                if (item != null && number<100)
                 {
                     
                     // Add code here to change the position slightly

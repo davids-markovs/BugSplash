@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/__DELETED_GUID_Trash/7769f33fb4fa2e5458344a36556ad760
     guid: 7769f33fb4fa2e5458344a36556ad760
   - enabled: 1
-    path: Assets/_Scene/main.unity
+    path: Assets/_Scene/Index.unity
     guid: c4b2a569af8ddd34abe747530b25be87
   - enabled: 1
     path: Assets/_Scene/Inside.unity

@@ -10,7 +10,7 @@ public class insideHouse : MonoBehaviour
         if (other.gameObject.tag == "Player")
         {
             if (SceneManager.GetActiveScene ().name == "Inside")
-                SceneManager.LoadScene("main");
+                SceneManager.LoadScene("Index");
            else
                 SceneManager.LoadScene("Inside");
         }
