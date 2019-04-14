@@ -60,9 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Handpainted Forest Environment Free Sample\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
-    <Compile Include="Assets\Simple Health Bar\Editor\SimpleHealthBarEditor.cs" />
-    <Compile Include="Assets\Simple Health Bar\Editor\SimpleHealthBarWindow.cs" />
+    <Compile Include="Assets\_World\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Dāvids Markovs/Documents/BugSplash/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
