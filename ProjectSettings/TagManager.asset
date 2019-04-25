@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Enemy
   - Axe
+  - BOSS
+  - AK
+  - Pistol
   layers:
   - Default
   - TransparentFX
